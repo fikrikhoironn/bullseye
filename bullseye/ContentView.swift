@@ -1,9 +1,9 @@
 //
 //  ContentView.swift
 //  bullseye
-//
+//  Hallo hallo
 //  Created by Fikri Khoiron Fadhila on 19/12/21.
-//  test
+//  test 2
 
 import SwiftUI
 
